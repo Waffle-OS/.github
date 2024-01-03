@@ -1,4 +1,4 @@
-## Waffle Operating System Project
+# Waffle Operating System Project
 
 
 <!--
